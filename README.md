@@ -1,8 +1,6 @@
-# ece464-databases
-ece464 databases class material
+# ECE 464: Databases
 
-Course material for graduate level databases class @TheCooperUnion
-```
-http://cooper.edu/engineering/curriculum/courses/ece-464/databases
-```
+#### Course material for graduate level databases class @TheCooperUnion
+
+[Course Site](http://cooper.edu/engineering/curriculum/courses/ece-464/databases)
 
