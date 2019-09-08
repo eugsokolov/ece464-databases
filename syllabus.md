@@ -25,13 +25,6 @@ The course readings will primarily be drawn from the 3rd Edition of '[Database M
 
 In addition, the 4th Edition of 'Readings in Database Systems', edited by Stonebraker and Hellerstein.
 
-Other good material includes:
-- [Stanford MOOC](https://cs.stanford.edu/people/widom/DB-mooc.html)
-- [MIT OCW Databse systems course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/)
-- [Uppsala Database Design I - 1DL300 ](https://www.it.uu.se/edu/course/homepage/dbastekn/vt12/dbt-1dl300-slides.html)
-- [UMich Database Modeling and Design](http://web.eecs.umich.edu/~teorey/lec.notes.pdf)
-
-
 #### Grading
 
 The breakdown is as follows:
