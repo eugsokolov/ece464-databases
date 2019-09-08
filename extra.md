@@ -11,6 +11,14 @@ Academic papers that may or may not be used during the semester.
 
 
 ## Videos
-Helpful videos to learn about databases
+Helpful videos to learn about databases.
 
 * [Full Beginner Postgres Tutorial](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
+## Online Courses
+Awesome online courses to supplement this course.
+
+* [Stanford MOOC](https://cs.stanford.edu/people/widom/DB-mooc.html)
+* [MIT OCW Databse systems course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/)
+* [Uppsala Database Design I - 1DL300 ](https://www.it.uu.se/edu/course/homepage/dbastekn/vt12/dbt-1dl300-slides.html)
+* [UMich Database Modeling and Design](http://web.eecs.umich.edu/~teorey/lec.notes.pdf)
