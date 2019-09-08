@@ -1,5 +1,6 @@
 ## Final project ideas
 - insurance premium data to map cost of insurance per car  https://archive.ics.uci.edu/ml/datasets/automobile
+- real estate scrapper and "smart" searcher
 - Unbiased, quick, personalized news via SMS or FB messenger, parses news and gives you what you want to read (ie a personalized Skimm)
 - "event tracker" - never forget the great places you have been to
 - Track bar activitiy for individuals (bouncerapp.com)
