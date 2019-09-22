@@ -32,13 +32,21 @@ class Sailor(Base):
 tmp = Sailor(sid=98, sname='joe', rating=7, age=25)
 print tmp
 
-set_trace()
-
 from sqlalchemy.orm import sessionmaker
 session = sessionmaker(bind=engine)
 s = session()
+
+s.add(tmp)
+
+set_trace()  # joe is "pending"
+
+s.commit()
+
+set_trace()
+
 sailors = s.query(Sailor)
 print type(sailors), sailors
+
 set_trace()
 
 for i in sailors:
