@@ -15,8 +15,9 @@ print conn.execute("SELECT * from sailors").fetchall()
 set_trace()
 
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Integer, String, Column
+from sqlalchemy import Integer, String, Column, DateTime
 Base = declarative_base()
+
 class Sailor(Base):
     __tablename__ = 'sailors'
 
@@ -44,3 +45,41 @@ for i in sailors:
     print i
 
 set_trace()
+
+from sqlalchemy import ForeignKey
+from sqlalchemy.orm import backref, relationship
+
+class Boat(Base):
+    __tablename__ = 'boats'
+
+    bid = Column(Integer, primary_key=True)
+    bname = Column(String)
+    color = Column(String)
+    length = Column(Integer)
+
+    reservations = relationship('Reservation',
+                                backref=backref('boat', cascade='delete'))
+
+    def __repr__(self):
+        return "<Boat(id=%s, name='%s', color=%s)>" % (self.bid, self.bname, self.color)
+
+from sqlalchemy import PrimaryKeyConstraint
+
+class Reservation(Base):
+    __tablename__ = 'reserves'
+    __table_args__ = (PrimaryKeyConstraint('sid', 'bid', 'day'), {})
+
+    sid = Column(Integer, ForeignKey('sailors.sid'))
+    bid = Column(Integer, ForeignKey('boats.bid'))
+    day = Column(DateTime)
+
+    sailor = relationship('Sailor')
+
+    def __repr__(self):
+        return "<Reservation(sid=%s, bid=%s, day=%s)>" % (self.sid, self.bid, self.day)
+
+for i in s.query(Reservation):
+    print(i)
+
+set_trace()
+
