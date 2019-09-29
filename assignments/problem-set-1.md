@@ -12,7 +12,7 @@ Download the dataset and schema of sailors and boats from our in class discussio
 7. Find the average age of sailors with a rating of 10.
 
 ### Part 2
-Represent the sailors and boats schema using an ORM - I prefer SQLAlchemy but students have the freedom to choose their own language and ORM. Show that it is fully functional by writing tests using the data from part 1 - I prefer pytest but students are have the freedom to choose their own testing framework.
+Represent the sailors and boats schema using an ORM - I prefer SQLAlchemy but students have the freedom to choose their own language and ORM. Show that it is fully functional by writing tests using the data from part 1 (writing the queries for the questions in Part 1) - I prefer pytest but students are have the freedom to choose their own testing framework.
 
 ### Part 3
 Students are hired as software consults for a small business boat rental that is experiencing a heavy influx of tourism in its area. This increase is hindering operations of the mom/pop shop that uses paper/pen for most tasks. Students should explore “inefficient processes” the business may have and propose ideas for improvements - in the form of a brief write-up.
