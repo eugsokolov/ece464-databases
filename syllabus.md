@@ -63,20 +63,20 @@ A general weekly outline is described below, however it is subject to change.
 ###### Week 6: Transactions and Concurrency Control
 * R&G Chapters 16, 17
 
-######  Week 7: Intro to NoSQL
+###### Week 7: Indexing and Query Evaluation
+* R&G Chapters 8, 12
+
+######  Week 8: Intro to NoSQL
 * [NoSql Intro](https://martinfowler.com/articles/nosql-intro)
 * [Martin Fowler @GOTO 2012 ](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 * Problem Set 2 assigned
 
-######  Week 8: Mongo and Redis
+######  Week 9: Mongo and Redis
 * [Mongo](https://docs.mongodb.com/)
 * [Redis](https://redis.io/documentation)
 
-###### Week 9: Physical Database Design
+###### Week 10: Physical Database Design
 * R&D Chapter 20
-
-###### Week 10: Indexing and Query Evaluation
-* R&G Chapters 8, 12
 * Final project proposal discussion
 
 ###### Week 11: A Practical Look at Databases: Behind the Scenes
