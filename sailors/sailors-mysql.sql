@@ -22,26 +22,26 @@ create table boats(
 	length int
 );
 
-insert into sailors values (22,'dusting',7,45.0);
-insert into sailors values (29,'brutus',1,33.0);
-insert into sailors values (31,'lubber',8,55.5);
-insert into sailors values (32,'andy',8,25.5);
+insert into sailors values (22,'dusting',7,45);
+insert into sailors values (29,'brutus',1,33);
+insert into sailors values (31,'lubber',8,55);
+insert into sailors values (32,'andy',8,25);
 insert into sailors values (58,'rusty',10,35);
 insert into sailors values (64,'horatio',7,16);
 insert into sailors values (71,'zorba',10,35);
-insert into sailors values (74,'horatio',9,25.5);
-insert into sailors values (85,'art',3,25.5);
-insert into sailors values (95,'bob',3,63.5);
-insert into sailors values (23,'emilio',7,45.0);
-insert into sailors values (24,'scruntus',1,33.0);
-insert into sailors values (35,'figaro',8,55.5);
-insert into sailors values (59,'stum',8,25.5);
+insert into sailors values (74,'horatio',9,25);
+insert into sailors values (85,'art',3,25);
+insert into sailors values (95,'bob',3,63);
+insert into sailors values (23,'emilio',7,45);
+insert into sailors values (24,'scruntus',1,33);
+insert into sailors values (35,'figaro',8,55);
+insert into sailors values (59,'stum',8,25);
 insert into sailors values (60,'jit',10,35);
 insert into sailors values (61,'ossola',7,16);
 insert into sailors values (62,'shaun',10,35);
-insert into sailors values (88,'dan',9,25.5);
-insert into sailors values (89,'dye',3,25.5);
-insert into sailors values (90,'vin',3,63.5);
+insert into sailors values (88,'dan',9,25);
+insert into sailors values (89,'dye',3,25);
+insert into sailors values (90,'vin',3,63);
 
 insert into reserves values (23,104,'1998/10/10');
 insert into reserves values (24,104,'1998/10/10');
