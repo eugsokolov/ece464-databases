@@ -10,8 +10,19 @@ Datasets scraped should be "large". One should be able to ask the database a que
 
 Example pages may include (but are not limited to):
 
+###### Sandbox
 * [WebScraping Sandbox](http://toscrape.com/)
+
+###### Weather
 * [Weather.gov](https://www.weather.gov/)
+
+###### Movie
 * [IMDB](https://www.imdb.com/)
 * [MetaCritic](https://www.metacritic.com/)
+* [RottenTomatos](https://www.rottentomatoes.com/)
+
+###### Sports
 * [NBA Stats](https://stats.nba.com/)
+* [Fox Sports](https://www.foxsports.com/)
+
+...
