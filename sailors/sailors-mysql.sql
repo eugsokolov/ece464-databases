@@ -4,7 +4,7 @@ SQL queries to populate a Sailors and Boats dataset
 create table sailors(
     sid int PRIMARY KEY,
     sname varchar(30),
-    rating int
+    rating int,
     age int
 );
 
