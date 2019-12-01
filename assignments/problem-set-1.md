@@ -1,7 +1,7 @@
 # Problem Set 1 Description
 
 ### Part 1
-Download the dataset and schema of sailors and boats from our in class discussion. Write SQL queries to answer the following questions. Include your query (and its output from your terminal) in your submissions.
+Download the dataset and schema of sailors and boats from our in class discussion. Write SQL queries to answer the following questions. Include your query (and its output from your terminal in a presentable fashion) in your submissions.
 
 1. Select, for each boat, the sailor who made the highest number of reservations for that boat.
 2. List, for every boat, the number of times it has been reserved, excluding those boats that have never been reserved (list the id and the name).
@@ -12,7 +12,7 @@ Download the dataset and schema of sailors and boats from our in class discussio
 7. Find the average age of sailors with a rating of 10.
 
 ### Part 2
-Represent the sailors and boats schema using an ORM - I prefer SQLAlchemy but students have the freedom to choose their own language and ORM. Show that it is fully functional by writing tests using the data from part 1 (writing the queries for the questions in Part 1) - I prefer pytest but students are have the freedom to choose their own testing framework.
+Represent the sailors and boats schema using an ORM - I prefer SQLAlchemy but students have the freedom to choose their own language and ORM. Show that it is fully functional by writing tests with a testing framework using the data from part 1 (writing the queries for the questions in Part 1) - I prefer pytest but students are have the freedom to choose their own testing framework.
 
 ### Part 3
 Students are hired as software consults for a small business boat rental that is experiencing a heavy influx of tourism in its area. This increase is hindering operations of the mom/pop shop that uses paper/pen for most tasks. Students should explore “inefficient processes” the business may have and propose ideas for improvements - in the form of a brief write-up.
@@ -21,6 +21,3 @@ Expand the codebase from part 2 to include a few jobs, reports, integrity checks
 * Monthly accounting manager
 * Daily inventory control
 * Inventory repair tracker (and cost analysis)
-
-#### “Extra Credit”
-Use a web code review platform so I can write comments for review. I should get a link to a review platform and be able to easily write comments - perhaps after linking with github or creating a free account. Ones that I have found good are codacy.com and reviewable.io. This will help prepare you for the final project and is highly recommended. 
