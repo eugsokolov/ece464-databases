@@ -23,7 +23,7 @@ Students should have taken ECE 264 - Data Structures and Algorithms 1. A backgro
 
 The course readings will primarily be drawn from the 3rd Edition of '[Database Management Systems](http://pages.cs.wisc.edu/~dbbook/)' from Ramakrishnan and Gehrke.
 
-In addition, the 4th Edition of 'Readings in Database Systems', edited by Stonebraker and Hellerstein.
+In addition, the 5th Edition of '[Readings in Database Systems](http://www.redbook.io/)', edited by Stonebraker and Hellerstein.
 
 #### Grading
 
