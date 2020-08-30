@@ -24,3 +24,13 @@
 - "Event Plus" event recommendation system (3)
 - bakery website (2)
 - "FIFA Ultimate Team Player Search" (1)
+
+#### Fall 2019 projects
+- real estate investment analyzer (2)
+- price
+- cooking recipes recommendation system (2)
+- movie reservation system (3)
+- HIV/AIDS research web application (kaggle data) (2)
+- Cooper Union textbook system (2)
+- FIFA transfer market management system (1)
+
