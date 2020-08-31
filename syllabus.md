@@ -29,13 +29,13 @@ In addition, the 5th Edition of '[Readings in Database Systems](http://www.redbo
 
 The breakdown is as follows:
 
-- Final Project: 30%
+- Final Project: 35%
 
-- Final Exam: 20%
+- Final Exam: 25%
 
 - Problem Sets: 30%
 
-- Special Onine Assesment: 20%
+- Special Onine Assesment: 15%
 
 Grading is to be followed by Cooper Union’s policy.
 
