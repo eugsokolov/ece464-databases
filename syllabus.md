@@ -35,7 +35,7 @@ The breakdown is as follows:
 
 - Problem Sets: 30%
 
-- Special Onine Assesment: 15%
+- Special Online Assesment: 15%
 
 Grading is to be followed by Cooper Union’s policy.
 
