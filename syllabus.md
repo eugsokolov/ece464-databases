@@ -76,6 +76,7 @@ A general weekly outline is described below, however it is subject to change.
 ######  Week 9: Mongo and Redis
 * [Mongo](https://docs.mongodb.com/)
 * [Redis](https://redis.io/documentation) [Redis Tutorial](https://static.simonwillison.net/static/2010/redis-tutorial/) [Try Redis](http://try.redis.io/)
+* Special assessment assigned
 
 ###### Week 10: Physical Database Design
 * R&D Chapter 20
