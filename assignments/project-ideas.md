@@ -27,7 +27,7 @@
 
 #### Fall 2019 projects
 - real estate investment analyzer (2)
-- price
+- price tracking inventory system (2)
 - cooking recipes recommendation system (2)
 - movie reservation system (3)
 - HIV/AIDS research web application (kaggle data) (2)
