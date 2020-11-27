@@ -33,9 +33,9 @@ The breakdown is as follows:
 
 - Final Exam: 25%
 
-- Problem Sets: 30%
+- Problem Sets: 3x10%
 
-- Special Online Assesment: 15%
+- Special Online Assesment: 10%
 
 Grading is to be followed by Cooper Union’s policy.
 
