@@ -12,7 +12,7 @@ create table reserves(
     sid int,
     bid int,
     day date,
---	PRIMARY KEY (sid, bid, day)
+	PRIMARY KEY (sid, bid, day)
 );
 
 create table boats(
@@ -73,9 +73,8 @@ insert into reserves values (31,104,'1998/11/12');
 insert into reserves values (64,101,'1998/9/5');
 insert into reserves values (64,102,'1998/9/8');
 insert into reserves values (74,103,'1998/9/8');
-insert into reserves values (74,103,'1998/9/8');
 
-insert into boats values (101,'Interlake','blue', 48);
+insert into boats values (101,'Interlake','blue', 45);
 insert into boats values (102,'Interlake','red', 45);
 insert into boats values (103,'Clipper','green', 40);
 insert into boats values (104,'Clipper','red', 40);
@@ -85,5 +84,5 @@ insert into boats values (107,'Marine','blue', 35);
 insert into boats values (108,'Driftwood','red', 35);
 insert into boats values (109,'Driftwood','blue', 35);
 insert into boats values (110,'Klapser','red', 30);
-insert into boats values (111,'Sooney','gren', 18);
-insert into boats values (112,'Sooney','red', 15);
+insert into boats values (111,'Sooney','green', 28);
+insert into boats values (112,'Sooney','red', 28);
