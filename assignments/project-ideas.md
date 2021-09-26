@@ -12,6 +12,8 @@
 - news delivery system (scraping other news sources and combining to give personalized or unbiased news feed)
 - event tracking system
 - traffic density website
+- sports betting system/tracker
+- online school system
 
 #### Fall 2018 projects
 - micro brewery analysis (1)
