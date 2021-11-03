@@ -28,3 +28,9 @@ Example pages may include (but are not limited to):
 * [Fox Sports](https://www.foxsports.com/)
 
 ...
+
+#### Tutorials
+* https://www.scrapingbee.com/blog/web-scraping-101-with-python/
+* https://oxylabs.io/blog/python-web-scraping
+* https://realpython.com/python-web-scraping-practical-introduction/
+
