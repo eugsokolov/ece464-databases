@@ -10,6 +10,7 @@ Additionally, each group should submit a single write-up. There should be only o
 * A description 	of the functionality (feel free to include screen captures of the 	interface if appropriate).
 * A description of any known bugs or features that you were unable to finish, along 	with explanations of why.
 If appropriate, instructions for how I could try out the system on my own (make it easy for me to do so).
+* A breakdown of work across all project members
 * A short conclusion indicating final thoughts about the project.
 * Anything else 	you want to add.
 
