@@ -15,6 +15,43 @@
 - sports betting system/tracker
 - online school system
 
+#### Fall 2021 projects
+- Rate My Professor (3)
+- A Home Bartender's Best Friend (3)
+- Makerspace Management Tool (3)
+- DataBlog (2)
+- Quizlet (2)
+- Grade/Notes Planner (3)
+- NodeSQL (SQL visualizer) (1)
+- Recipe Wizard (2)
+- Library Management System (2)
+- Ethics Explorer (1)
+- Localization Packet Simulator (2)
+- Weverse Shop (1)
+- Grocery Store Manager (3)
+- CUDB (document based db) (3)
+
+#### Fall 2020 projects
+- Wine and Cheese Recommendation Engine (2)
+- Hotel Management System (2)
+- PARE: Platform For AR Events (1)
+- News App (2)
+- Subway Scheduler (2)
+- Doctor Visit scheduler (2)
+- Workout Tracker (2)
+- LGBTQIA+ Hospital Recommendation System (1)
+- Payroll data system (3)
+- Subreddit Recommendation Pipeline (1)
+
+#### Fall 2019 projects
+- real estate investment analyzer (2)
+- price tracking inventory system (2)
+- cooking recipes recommendation system (2)
+- movie reservation system (3)
+- HIV/AIDS research web application (kaggle data) (2)
+- Cooper Union textbook system (2)
+- FIFA transfer market management system (1)
+
 #### Fall 2018 projects
 - micro brewery analysis (1)
 - "RF Gym" a more efficient gym experience (1)
@@ -26,13 +63,3 @@
 - "Event Plus" event recommendation system (3)
 - bakery website (2)
 - "FIFA Ultimate Team Player Search" (1)
-
-#### Fall 2019 projects
-- real estate investment analyzer (2)
-- price tracking inventory system (2)
-- cooking recipes recommendation system (2)
-- movie reservation system (3)
-- HIV/AIDS research web application (kaggle data) (2)
-- Cooper Union textbook system (2)
-- FIFA transfer market management system (1)
-
