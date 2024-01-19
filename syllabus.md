@@ -15,7 +15,7 @@ I will not hold official office hours but I will be available for extra question
 
 #### Prerequisites
 
-Students should have taken ECE 264 - Data Structures and Algorithms 1. A background in software development and general knowledge of programming languages is assumed and will be further explored in this course. My preferred programming language is Python.
+Students should have taken ECE 264 (DSA 1) and ECE 365 (DSA 2). A background in software development and general knowledge of programming languages is assumed and will be further explored in this course. My preferred programming language is Python but students are welcome to explore with other programming languages.
 
 #### Text
 
@@ -27,13 +27,11 @@ In addition, the 5th Edition of '[Readings in Database Systems](http://www.redbo
 
 The breakdown is as follows:
 
-- Final Project: 35%
+- Final Project: 40%
 
-- Final Exam: 25%
+- Final Exam: 30%
 
 - Problem Sets: 3x10%
-
-- Special Online Assesment: 10%
 
 Grading is to be followed by Cooper Union’s policy.
 
