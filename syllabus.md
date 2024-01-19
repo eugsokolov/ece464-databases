@@ -56,10 +56,11 @@ A general weekly outline is described below, however it is subject to change.
 ###### Week 5: The Access Layer: ORMs and Programming with Databases
 * R&G Chapter 5
 * [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
-* Final project discussion
+* Final project discussion and proposal assigned
 
 ###### Week 6: Transactions and Concurrency Control
 * R&G Chapters 16, 17
+* Selinger [paper](https://www2.cs.duke.edu/courses/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf) discussion
 
 ###### Week 7: Indexing and Query Evaluation
 * R&G Chapters 8, 12
@@ -76,15 +77,13 @@ A general weekly outline is described below, however it is subject to change.
 
 ###### Week 10: Physical Database Design
 * R&D Chapter 20
-* Final project proposal discussion
 
-###### Week 11: A Practical Look at Databases: Behind the Scenes
-* [MySQL Skeleton](https://dev.mysql.com/doc/internals/en/guided-tour-skeleton.html)
-* [Postgres Source](https://github.com/postgres/postgres)
-* [Redis Internals](https://redis.io/topics/internals)
+###### Week 11: Normalization and Database Design
+* R&G Chapters 19
 
 ###### Week 12: Databases and "Big Data"
 * [HDFS](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
+* Final project MVP discussion
 
 ###### Week 13: Open Topic/Guest Lecture
 
