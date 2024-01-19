@@ -1,7 +1,5 @@
 ## ECE 464: Databases
 
-### eugene.sokolov.cooper@gmail.com
-
 #### Overview
 
 “Engineering and design of databases. Topics to be covered may include: data models, database and scheme design; schema normalization and integrity constraints; query processing and optimization; distributed and parallel databases; SQL and XML.”
@@ -13,7 +11,7 @@ This course is designed to introduce students to the foundations of database sys
 
 Lectures are held once a week, Tuesday 1800-2100. Attendance is not mandatory, but I strongly advise all students to attend every lecture. Lack of attendance will degrade performance in the class and more importantly degrade knowledge of databases.
 
-I will not hold official office hours but I will be available for extra questions after lectures should the need arise. Students may reach me via email at any time and I will try my best to reply within 24 hours.
+I will not hold official office hours but I will be available for extra questions after lectures should the need arise. Students may reach me via email at any time and I will try my best to reply within 24 hours. Students may also post questions in the course Teams chat and I will try my best to reply within 24 hours (this is preferred as its quite likely other students have similar questions).
 
 #### Prerequisites
 
