@@ -62,8 +62,8 @@ A general weekly outline is described below, however it is subject to change.
 * R&G Chapters 16, 17
 * Selinger [paper](https://www2.cs.duke.edu/courses/compsci516/cps216/spring03/papers/selinger-etal-1979.pdf) discussion
 
-###### Week 7: Indexing and Query Evaluation
-* R&G Chapters 8, 12
+###### Week 7: Physical Database Design
+* R&D Chapter 20
 
 ######  Week 8: Intro to NoSQL
 * [NoSql Intro](https://martinfowler.com/articles/nosql-intro)
@@ -75,9 +75,9 @@ A general weekly outline is described below, however it is subject to change.
 * [Redis](https://redis.io/documentation) [Redis Tutorial](https://static.simonwillison.net/static/2010/redis-tutorial/) [Try Redis](http://try.redis.io/)
 * Problem Set 3 assigned
 
-###### Week 10: Physical Database Design
-* R&D Chapter 20
-
+###### Week 10: Indexing and Query Evaluation
+* R&G Chapters 8, 12
+  
 ###### Week 11: Normalization and Database Design
 * R&G Chapters 19
 
