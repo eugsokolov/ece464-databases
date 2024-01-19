@@ -99,4 +99,4 @@ A general weekly outline is described below, however it is subject to change.
 
 #### Collaboration Policy
 
-For problem sets and paper readings, students are allowed to discuss answers with other students, but must write up their own answers and list collaborators. Simply copying solutions from other students is never allowed. For the group project students will work in teams and hand in only one written report. *Note that I will know if students are copying or cheating.*
+For problem sets and paper readings, students are allowed to discuss answers with other students, but must write up their own answers and list collaborators. Simply copying solutions from other students is never allowed - see Cooper Union's official policy on plagarism. For the group project students will work in teams and hand in only one written report. *Note that I will know if students are copying or cheating.*
