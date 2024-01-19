@@ -72,7 +72,7 @@ A general weekly outline is described below, however it is subject to change.
 ######  Week 9: Mongo and Redis
 * [Mongo](https://docs.mongodb.com/)
 * [Redis](https://redis.io/documentation) [Redis Tutorial](https://static.simonwillison.net/static/2010/redis-tutorial/) [Try Redis](http://try.redis.io/)
-* Special assessment assigned
+* Problem Set 3 assigned
 
 ###### Week 10: Physical Database Design
 * R&D Chapter 20
@@ -82,7 +82,6 @@ A general weekly outline is described below, however it is subject to change.
 * [MySQL Skeleton](https://dev.mysql.com/doc/internals/en/guided-tour-skeleton.html)
 * [Postgres Source](https://github.com/postgres/postgres)
 * [Redis Internals](https://redis.io/topics/internals)
-* Problem Set 3 assigned
 
 ###### Week 12: Databases and "Big Data"
 * [HDFS](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
