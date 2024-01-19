@@ -1,4 +1,4 @@
-# Problem Set 3 Description
+# Problem Set 3a Description
 
 Students will write a project proposal researching various database designs and DBMSs, surveying them for a new project (or creating your own, new DBMS) that would revamp the internet. Read the paper "[Database Techniques for the World-Wide Web: A Survey](https://cse.buffalo.edu/~mpetropo/CSE705-FA08/pubs/webdb.pdf)" by Florescu et. al. The goal should be to convince me that a particular DBMS is best at solving the issues discussed in class and presented by Florescu et. al. with regards to internet data. Students can focus on a particular area or topic of interest, ie. taking the standpoint from Amazon or Google, the DoD, etc.
 
