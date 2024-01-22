@@ -15,6 +15,11 @@
 - sports betting system/tracker
 - online school system
 
+#### Fall 2022 projects
+- library management system (3)
+- hospital medication management system (2)
+- student course planner system (2)
+
 #### Fall 2021 projects
 - Rate My Professor (3)
 - A Home Bartender's Best Friend (3)
