@@ -16,6 +16,7 @@ A simple introduction to the basics of Python + attempting to build our own data
 1) Scroll down for the community version https://www.jetbrains.com/pycharm/download/
 2) Either import or create a new project. Select your python virtual environment
 3) Configure your run configurations to run the main.py file, or use the defaults
+4) pip install the black package. Configure black to run on save (https://www.jetbrains.com/help/pycharm/reformat-and-rearrange-code.html)
 
 ## Environment stuff for next week
 1) Install docker
