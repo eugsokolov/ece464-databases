@@ -5,16 +5,20 @@ Sailors and Boats lecture script
 from __future__ import print_function
 from ipdb import set_trace
 
-from sqlalchemy import create_engine
-engine = create_engine(
-      "mysql+pymysql://eugene:@localhost/sailors?host=localhost?port=3306", echo=True)
+from sqlalchemy import create_engine, text
+
+## Feel free to change the connection string to your own database.
+
+# engine = create_engine(
+#       "mysql+pymysql://eugene:@localhost/sailors?host=localhost?port=3306", echo=True)
+engine = create_engine('postgresql+psycopg2://postgres:mysecretpassword@localhost:5440/test', echo=True)
 
 conn = engine.connect()
-print(conn.execute("SELECT * from sailors").fetchall())
+print(conn.execute(text("SELECT * from sailors")).fetchall())
 
-set_trace()
+# # set_trace()
 
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import declarative_base
 from sqlalchemy import Integer, String, Column, DateTime
 Base = declarative_base()
 
@@ -29,7 +33,7 @@ class Sailor(Base):
     def __repr__(self):
         return "<Sailor(id=%s, name='%s', rating=%s)>" % (self.sid, self.sname, self.age)
 
-tmp = Sailor(sid=98, sname='joe', rating=7, age=25)
+tmp = Sailor(sid=99, sname='joe', rating=7, age=25)
 print(tmp)
 
 from sqlalchemy.orm import sessionmaker
@@ -38,30 +42,30 @@ s = session()
 
 s.add(tmp)
 
-set_trace()  # joe is "pending"
+# set_trace()  # joe is "pending"
 
 s.commit()
 
-set_trace()
+# set_trace()
 
 tmp.rating = 8
 print('session is dirty?', s.dirty)
 
-set_trace()
+# set_trace()
 
 s.commit()
 
-set_trace()
+# set_trace()
 
 sailors = s.query(Sailor)
 print(type(sailors), sailors)
 
-set_trace()
+# set_trace()
 
 for i in sailors:
     print(i)
 
-set_trace()
+# set_trace()
 
 from sqlalchemy import ForeignKey
 from sqlalchemy.orm import backref, relationship
@@ -98,5 +102,5 @@ class Reservation(Base):
 for i in s.query(Reservation):
     print(i)
 
-set_trace()
+# set_trace()
 
