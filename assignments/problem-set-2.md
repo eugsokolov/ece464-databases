@@ -12,6 +12,15 @@ Submissions should include two parts; the code to scrape the site, queries to th
 
 Example pages may include (but are not limited to):
 
+### Writeup
+Rough overview of the code/files
+
+What is your approach to scraping the site? Show some example urls and describe the rough flow.
+
+Data storage: What is the schema of your data? How do you query it.
+
+Results: Show some interesting queries/results. Visualizations/charts are great if possible.
+
 ###### Sandbox
 * [WebScraping Sandbox](http://toscrape.com/)
 
