@@ -15,6 +15,19 @@
 - sports betting system/tracker
 - online school system
 
+#### Spring 2024 projects
+- Mood journal
+- Classroom booking
+- Personal assignment scheduler
+- Class trading platform
+- Event booking
+- Logging analysis + llm agent
+- Library
+- Evite
+- Street parking finder
+- Movie ranking/recs
+- Mulitplayer chess
+
 #### Fall 2022 projects
 - library management system (3)
 - hospital medication management system (2)
