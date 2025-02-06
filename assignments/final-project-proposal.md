@@ -18,10 +18,6 @@ gpa REAL,
 PRIMARY KEY (sid) )
 ```
 
-You should underline members of the primary key of each relation, but other constraints will not be indicated when using this notation. Along with each schema, provide a textual description if there is anything that is not obvious.
-
-
-
 Using these statements, include any constraints that are possible and appropriate, including candidate and primary key constraints, foreign key constraints, participation constraints, etc. You may use `NULL` values, default values, `CASCADE` clauses, etc. You may try out the commands with a DBMS if you wish, but I am only going to look at them by eye now. I am mostly interested in seeing that you are appropriately using constraints and making appropriate decisions (e.g., when do you create a relation corresponding to a relationship set in the ER diagram, and when do you combine the relationship set with an entity set). Again, you may include a textual description explaining anything that is not obvious.
 
 You don't necessarily have to include the requested components of the proposal in the specified order. You may combine parts, if that makes sense, or feel free to include more than I ask for if you think it would be helpful. This assignment is meant to serve a dual purpose of giving you experience creating ER diagrams and familiarizing me with your plans so that I can give helpful feedback and suggestions. You will be allowed to make changes as the semester progresses, but your final project may be partially evaluated based on how well you implement your proposal.
