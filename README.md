@@ -4,4 +4,5 @@
 
 [Course Site](http://cooper.edu/engineering/curriculum/courses/ece-464/databases)
 
-[Me](https://cooper.edu/academics/people/eugene-sokolov)
+[Sokolov](https://cooper.edu/academics/people/eugene-sokolov)
+[Katz](https://cooper.edu/academics/people/david-katz)
