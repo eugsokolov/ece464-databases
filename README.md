@@ -1,9 +1,17 @@
-# ECE 464: Databases
+# Sample Pyppeteer Scraper
 
-#### Course material for graduate level databases class @TheCooperUnion
+This is a sample project that uses Pyppeteer to scrape a website.
 
-[Course Site](http://cooper.edu/engineering/curriculum/courses/ece-464/databases)
+## Installation
 
-[Sokolov](https://cooper.edu/academics/people/eugene-sokolov)
+```
+python3.12 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
 
-[Katz](https://cooper.edu/academics/people/david-katz)
+## Usage
+
+```
+python main.py
+```
